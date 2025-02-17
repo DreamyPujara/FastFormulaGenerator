@@ -1,0 +1,15 @@
+streamlit
+transformers
+langchain_community
+cohere
+beautifulsoup4
+langchain
+langchain_chroma
+langchain_text_splitters
+pydantic
+langchain_cohere
+streamlit_extras
+nltk
+openai
+pypdf
+pysqlite3-binary
